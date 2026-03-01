@@ -27,7 +27,7 @@
       "path": "C:/Storage/YaxUnit",
       "dir": "./src/cf",
       "temp-dir": "",
-      "v8version": "8.3.27.1859",
+      "v8version": "8.3.27.1989",
       "plugins-config": {
         "URL": "https://github.com/Tanaksu/Jenkins_Demo.git"
       }
@@ -38,7 +38,7 @@
         "path": "C:/Storage/YaxYnitExt",
         "dir": "./src/cfe/yaxunit",
         "temp-dir": "",
-        "v8version": "8.3.27.1859",
+        "v8version": "8.3.27.1989",
         "plugins-config": {
           "URL": "https://github.com/Tanaksu/Jenkins_Demo.git"
         }
