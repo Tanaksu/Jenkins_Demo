@@ -23,7 +23,7 @@
   },
   "repositories": [
     {
-      "name": "otus",
+      "name": "YaxUnit",
       "path": "C:/Storage/YaxUnit",
       "dir": "./src/cf",
       "temp-dir": "",
@@ -33,7 +33,7 @@
       }
     },
     {
-        "name": "YAXUNIT",
+        "name": "YaxYnitExt",
         "extension": "YAXUNIT",
         "path": "C:/Storage/YaxYnitExt",
         "dir": "./src/cfe/yaxunit",
